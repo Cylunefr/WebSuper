@@ -1,5 +1,6 @@
 # WebSuper
 Créez des logiciels en HTML !
+*Disponible pour Linux et Windows*
 
 *Téléchargez le logiciel sur GitHub ou [ici](http://websuper.cylune.fr/).*
 
